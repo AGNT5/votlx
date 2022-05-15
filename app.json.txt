@@ -1,0 +1,18 @@
+{
+  "UPDATES_CHANNEL": "",
+  "API_ID": "",
+  "OWNER_NAME": "",
+  "SESSION_NAME": "",
+  "HNDLR": "",
+  "GROUP_SUPPORT": "",
+  "ASSISTANT_NAME": "",
+  "BOT_NAME": "",
+  "SUDO_USERS": "",
+  "ALIVE_NAME": "",
+  "BOT_PHOTO": "",
+  "DEV_PHOTO": "",
+  "BOT_USERNAME": "",
+  "API_HASH": "",
+  "BOT_TOKEN": "",
+  "DEV_NAME": ""
+}
